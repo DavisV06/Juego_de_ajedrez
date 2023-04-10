@@ -1,4 +1,4 @@
-# Juego_de_ajedrez
+# Juego_de_ajedrez_in_Java
 Juego de ajedrez, desarrollado en Java.
 Juego conformado solo por caballo blanco y caballo negro -> ÚNICAS FICHAS DEL JUEGO
 
